@@ -8,7 +8,7 @@
 </p>
 
 
-<a href="https://micheleambrosio.github.io/hbomax/">
+<a href="https://dg-hbomax-project-dio.vercel.app/">
   <img src="assets/images/readme-images/cover-2.png">
 </a>
 
@@ -50,13 +50,13 @@ Recursos CSS presentes no projeto:
 
 <h2 id="demo">🛠 Projeto</h2>
 
-Você pode acessar ao resultado final do projeto [clicando aqui](https://micheleambrosio.github.io/hbomax/).
+Você pode acessar ao resultado final do projeto [clicando aqui](https://dg-hbomax-project-dio.vercel.app/).
 
 
 <h2 id="author">👨🏽‍💻 Autor</h2>
-<p>
-    <img align=left margin=10 width=80 src="https://avatars.githubusercontent.com/u/55519539?v=4"/>
-    <p>&nbsp&nbsp&nbspMichele Queiroz Ambrosio<br>
+<p><a href="https://github.com/Douglasffjw">
+    <img align=left margin=10 width=80 src="https://github.com/Douglasffjw.png"/></a><br>
+    <p>&nbsp&nbsp&nbspDouglas Freitas<br>
     &nbsp&nbsp&nbsp<a href="https://www.instagram.com/_dougl4z/">Instagram</a>&nbsp;|&nbsp;<a href="https://github.com/Douglasffjw">GitHub</a>&nbsp;|&nbsp;<a href="https://www.linkedin.com/in/dgfernandesf/">LinkedIn</a>
 </p>
 <br/><br/>
