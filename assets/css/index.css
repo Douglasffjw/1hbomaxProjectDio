@@ -344,3 +344,11 @@ main {
     transform: rotate(0);
   }
 }
+
+.footer__social .ph{
+  font-size: 25px;
+  color: #9a7fff;
+}
+.footer__social a{
+  text-decoration: none;
+}
